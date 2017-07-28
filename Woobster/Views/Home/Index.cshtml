@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron" style="color:#333333;">
+    <h1>Pet naming made <span style="font-style:italic;">EASY</span></h1>
+    <p class="lead">Don't spend months stressing about pet names!  Let woobster.com generate one for you in seconds!</p>
+
+</div>
+
+<div class="row">
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+
+    <div class="col-md-4">
+        <div class="jumbotron table-bordered" style="padding:10px;background-color:#333333;color:#999999;font-size:12pt;">
+            <h4 style="color:#ffffff">Getting started</h4>
+            <p>
+                Would you like a title, such as Dr. or Professor in your name?
+            <p>
+                Yes please inclue:
+
+                @if (ViewBag.Pretag != null)
+                {
+                    <input type="checkbox" name="pre" checked />
+                }
+                else
+                {
+                    <input type="checkbox" name="pre" />
+                }
+
+            </p>
+            </p>
+            <h4 style="color:#ffffff;">Advanced options</h4>
+            <p>We can even generate a surname, like kittens (as in Alex P. Kittens). Would you LOVE that?
+            <p>
+                Yes please include:
+                @if (ViewBag.Posttag != null)
+                {
+                    <input type="checkbox" name="post" checked />
+                }
+                else
+                {
+                    <input type="checkbox" name="post" />
+                }
+            </p>
+
+            <input type="submit" value="Create my name!" style="width:100%;" />
+            </p>
+        </div>
+    </div>
+}
+    <div class="col-md-8" >
+        @if (ViewBag.Name != null)
+        {
+            <div id="namebanner" class="jumbotron" style="background-color:tomato;color:antiquewhite">
+                <p class="lead text-center">
+                    Your new name:
+                </p>
+                <h1 class="text-center">@ViewBag.Name</h1>
+
+
+            </div>
+        }
+        else
+        {
+            <div id="namebanner" class="jumbotron" style="background-color:tomato;color:antiquewhite">
+                <h2 class="text-center">You are 1-click away from your new name!</h2>
+            </div>
+        }
+    </div>
+</div>
+

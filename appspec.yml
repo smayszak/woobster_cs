@@ -1,0 +1,11 @@
+version: 0.0
+os: windows
+files:
+  - source: /
+    destination: C:\temp\WebApp\woobster
+  
+hooks:
+  BeforeInstall:
+    - location: .\UncompressArtifacts.ps1
+  AfterInstall:
+    - location: .\CreateWebSite.ps1

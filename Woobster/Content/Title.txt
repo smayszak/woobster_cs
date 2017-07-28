@@ -1,0 +1,314 @@
+﻿Abbess
+Admiral
+Aesymnetes
+Agonothetes
+Agoranomos
+Air Marshal
+Aircraftman
+Akhoond
+Allamah
+Amban
+Amir al-Mu'minin
+Amphipole
+Anax
+Apodektai
+Apostle
+Arahant
+Archbishop
+Archdeacon
+Archduchess
+Archiater
+Archimandrite
+Archon
+Archpriest
+Argbadh
+Arhat
+Asapatish
+Aspet
+Assistant in Virtue
+Assistant Professor
+Assistant to the President
+Deputy National Security Advisor
+Associate Professor
+Aswaran Salar
+Augusta
+Ayatollah
+Baivarapatish
+Bapu
+Baron
+Basileus
+Beauty
+Bishop
+Blessed
+Begum
+Buddha
+Cardinal
+Cardinal-nephew
+Caesar
+Caliph
+Captain
+Catholicos
+Centurion
+Chairman
+Chakravartin
+Chancellor
+Chanyu
+Chhatrapati
+Chief
+Chiliarch
+Chorbishop
+Choregos
+Coiffure Attendant
+Comes
+Fuzziness
+Cuteness
+Commissioner
+Concubinus
+Consort
+Consul
+Corporal
+Corrector
+Councillor
+Countess
+Dàifu
+Dalai Lama
+Dom
+Dathapatish
+Deacon
+Dean
+Decurio
+Desai
+Despot
+Dilochitès
+Dikastes
+Dimoirites
+Distinguished Professor
+Divine Adoratrice
+Diwan
+Doctor
+Doña
+Duchess
+Duke
+Earl
+Earl Marshal
+Ecumenical Patriarch
+Elder
+Emperor
+En
+Ephor
+Epihipparch
+Esquire
+Evangelist
+Exarch
+Fan-bearer on the Right Side of the King
+Faqih
+Fellow
+Fidalgo
+Fidei defensor
+Field Marshal
+Foreign minister
+Furén
+Fürst
+Ganden Tripa
+Generalissimo
+Gong 
+Goodwife
+Gothi
+Governor
+Governor-General
+Grand Admiral
+Grand duchess
+Grand Inquisitor
+Grand Master
+Grand prince
+Guardian Immortal
+Hadrat
+Handsome Fairness
+Haty-a
+Hazarapatish
+Headman
+Hegumen
+Hekatontarchès
+Hellenotamiae
+Herald
+His Excellency
+Your Grace
+Your Highness
+Her Illustrious Highness
+His Imperial Highness
+Her Imperial Majesty
+Your Lordship
+Her Majesty
+His Royal Highness
+Your Serene Highness
+Herzog
+Hidalgo
+Hierodeacon
+Hieromonk
+Hierophant
+High priest
+Hipparchus
+His Eminence
+Hojatoleslam
+Ilarchès
+Imam
+Imperator 
+Inquisitor
+Jagirdar
+Jiàoshòu
+Junior Technician
+Kanstresios
+Karo
+Khawaja
+King
+King of Arms
+Kolakretai
+Kumari
+Lady
+Lady of His Majesty
+Lady of Treasure
+Laoshi
+Lecturer
+Legatus
+Leading Aircraftman
+Lochagos
+Lonko
+Lord Great Chamberlain
+Lord High Constable
+Lord Privy Seal
+Lugal
+Madam
+Magister Officiorum
+Magister Militum
+Maha-kshtrapa
+Maharaja
+Maharana
+Maharao
+Mahatma
+Major archbishop
+Malik
+Mandarin
+Marzban
+Master of the Horse
+Master of the Sacred Palace
+Mawlawi
+Mayor
+Metropolitan Bishop
+Mirza
+Monsignor
+Mullah
+Naib
+Nakharar
+National Security Advisor
+Navarch
+Nawab
+Nawabzada
+Nizam
+Nobilissimus
+Nomarch
+Nuncio
+Nushi
+Optio
+Palatine
+Pastor
+Patriarch
+Patroon
+Paygan Salarapoo
+Peshwa
+Pharaoh
+Pir
+Polemarch
+Pope
+Praetor
+Presbyter
+President
+Presiding Patriarch
+Priest
+Primate
+Prime minister
+Prince
+Princeps
+Principal Lecturer
+Prithvi-vallabha
+Professor
+Professor Emeritus
+Propagator of Deportment
+Protodeacon
+Proxenos
+Prytaneis
+Pursuivant
+Rabbi
+Raja
+Rajmata
+Reader
+Rector
+Reverend
+Roju
+Sacristan
+Saint
+Sakellarios
+Sahib
+Satrap
+Savakabuddha
+Sayyadina
+Sebastokrator
+Sebastos
+Secretary of State
+Selected Lady
+Senior Aircraftman
+Senior Lecturer
+Sergeant
+Shah
+Shaman
+Shifu 
+Shigong
+Shimu
+Shofet
+Shogun
+Sibyl
+Somatophylax
+Soter
+Spahbod
+Sparapet
+Sri
+Starosta
+Strategos
+Subedar
+Sultan
+Sunim
+Swami
+Syntagmatarchis
+Tagmatarchis
+Taitai
+Talented
+Tanuter
+Taoiseach
+Taxiarch
+Temple boy
+Tenzo
+Tetrarch
+Thakore
+Theorodokoi
+The Most Honourable
+The Right Honourable
+Tirbodh
+Toqui
+Towel Attendant
+Tribune
+Trierarch
+Tsar
+Unsui
+Upasaka
+Upajjhaya
+Vajracharya
+Varma
+Venerable
+Vicar general
+Viceroy
+Voivode
+Weiyuán
+Yisheng
+Yishi 
+Zamindar
+Zongshi
+Zhuxi
